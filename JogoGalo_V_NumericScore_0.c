@@ -38,13 +38,13 @@ int main()
             }
         
             //Há um Resultado Final se:
-            //ganha jogador X quando:
+            //ganha jogador X, o que acontece quando:
             int vitoriaX = (somaEmDiagonal1 == 15 || somaEmDiagonal2 == 15 || somaEmColuna  == 15 || somaEmLinha == 15 );
             if (vitoriaX) { printf("\nResultado: Vitoria de X!"); break;}
-            //ganha jogador O quando:
+            //ganha jogador O, o que acontece quando:
             int vitoriaO = ( somaEmDiagonal1 == 3 || somaEmDiagonal2 == 3 || somaEmColuna  == 3 || somaEmLinha == 3 );
             if (vitoriaO) { printf("\nResultado: Vitoria de O!"); break;}
-            //o jogo fica empatado quando:
+            //o jogo fica empatado, o que acontece quando:
             int fimJogo = (nrPosicoesZero == 0 && i == 2);
             if (fimJogo) { printf("\nResultado: Empate!",nrPosicoesZero);}
         }
