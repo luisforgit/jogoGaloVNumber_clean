@@ -9,8 +9,8 @@
     
   Se a soma for igual a 9, ganhou o jogador X. Se for igual a 15, ganhou o jogador O. Caso contrário, ninguém ganha nessa linha.
   Por exemplo, se o jogador X tem duas casas ocupadas na primeira linha e o jogador O uma, o valor da soma da pontuação nessa linha será 11. Se for
-  o jogador O a ocupar duas casas primeira linha e o jogador X uma, o valor da soma será 14. Não sendo qualquer das pontuações
-  nestes exemplos iguais a 9 ou a 15, não ganha nenhum dos jogadores.
+  o jogador O a ocupar duas casas da primeira linha e o jogador X uma, o valor da soma será 14. Não sendo quaisquer das somas 
+  iguais a 9 ou a 15, não ganha nenhum dos jogadores.
     
   O mesmo raciocínio aplica-se ás retantes posições do array, com a 2.a linha do quadro representada pela posição 1 e a 3.a linha
   do quadro represenada pela posição 2 do array.
