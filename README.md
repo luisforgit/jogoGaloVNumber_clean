@@ -5,13 +5,12 @@
   
   a) Array linhas horizontais
   
-  A posicção 0 representa a primeira linha do tabuleiro. 
-    Contém a soma das jogadas de ambos os jogadores na primeira linha do tabuleiro.
+  A posicção 0 representa a primeira linha do tabuleiro e contém a soma das jogadas de ambos os jogadores na primeira linha do tabuleiro.
     
-    Se a soma for igual a 9, ganhou o jogador A. Se for igual a 12, ganhou o jogador B. Caso contrário, ninguém ganha nessa linha.
+  Se a soma for igual a 9, ganhou o jogador A. Se for igual a 12, ganhou o jogador B. Caso contrário, ninguém ganha nessa linha.
     
-   O mesmo raciocínio aplica-se ás retantes posições do array, com a 2.a linha do quadro representada pela posição 1 e a 3.a linha
-   do quadro represenada pela posição 2 do array.
+  O mesmo raciocínio aplica-se ás retantes posições do array, com a 2.a linha do quadro representada pela posição 1 e a 3.a linha
+  do quadro represenada pela posição 2 do array.
  
  b) Array de linhas verticais
   Aplica-se o exposto em a) paras linhas verticais
