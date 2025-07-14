@@ -16,6 +16,7 @@
   do quadro represenada pela posição 2 do array.
  
  b) Array de linhas verticais
+  
   Aplica-se o exposto em a) paras linhas verticais
 
   c) Array de diagonais
