@@ -4,6 +4,7 @@
  A soma das jogadas de ambos os jogadores são armazenadas em 3 arrays de 3 posições: 
   
   a) Array linhas horizontais
+  
   A posicção 0 representa a primeira linha do tabuleiro. 
     Contém a soma das jogadas de ambos os jogadores na primeira linha do tabuleiro; 
     Se a soma for igual a 9, ganhou o jogador A. Se for igual a 12, ganhou o jogador B. Caso contrário, ninguém ganha nessa linha.
