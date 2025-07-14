@@ -21,6 +21,6 @@
   c) Array de diagonais
 
   É ignorada a posição 0 do array, uma vez que apenas existem 2 diagonais, a principal e a secundária, pelo que o algoritmo é construído 
-  quer identificar a diagonal quer para ter em conta a existência de apenas duas.  .
+  quer identificar a diagonal quer para ter em conta a existência de apenas duas ao somar as pontuações.  .
 
   
